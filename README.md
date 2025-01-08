@@ -15,6 +15,7 @@ Este podcast de 5 minutos oferece um passeio rápido, pelo mundo da análise de 
 ## 🚀 Resultados
 O episódio é uma introdução acessível e estimulante ao campo da analise de dados, ideal para quem busca uma compreensão rápida do assunto.
 
+[LINK PARA O PODCAST AQUI](https://share.descript.com/view/PpZK4X3E1Yj)
 
 ## 💭 Reflexão (Opcional)
 O projeto destacou a versatilidade das IAs Generativas na criação de conteúdo auditivo, abrindo novos caminhos para a produção de mídia digital.
